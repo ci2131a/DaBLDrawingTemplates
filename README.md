@@ -15,5 +15,5 @@ This repository serves to provide relevant template files to be used in CAD draw
 - [Fusion 360](Fusion360/README.md) for three-dimensional design.
 
 
-Additionally, title block files can be found in the repective folder in different file formats for other programs.
+Additionally, title block files can be found in the respective folder for other programs.
 
