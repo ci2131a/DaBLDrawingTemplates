@@ -1,7 +1,7 @@
 
 # Drawing Templates <a href='http://designandbuildlab.com/'><img src='http://designandbuildlab.com/main/wp-content/uploads/mainpagelogo3.png' align="right" height="86" /></a>
 
-Modifiable template files for design drawings.
+Adaptable computer aided design (CAD) files for use as design drawing templates.
 
 ## Overview
 
