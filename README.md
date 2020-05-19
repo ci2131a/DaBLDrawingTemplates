@@ -5,7 +5,8 @@ Adaptable computer aided design (CAD) files for use as design drawing templates.
 
 ## Overview
 
-The Design and Build Lab (DaBL) is a digital fabrication and rapid prototyping space that specializes in teaching students, staff, and faculty to create things to solve problems. One of the most powerful tools of the space is computer aided design (CAD). This is very useful in creating digital objects that can be sent to a machine for manufacturing. As such, the space regularly teaches workshops on these programs such as Fusion 360, Eagle, etc. One important feature in reproducability is proper documentation. Addititionally, it can be used to showcase ones work. As such, we seek to teach members to create proper design drawing for such purposes. 
+The Design and Build Lab (DaBL) is a rapid prototyping space that specializes in digital fabrication. Its goal is to teach students, staff, and faculty how to create things to solve problems. One of the most powerful tools of the space is CAD. It is very useful for creating digital objects that can be sent to a machine for manufacturing. As such, the space regularly teaches workshops that demonstrate how to use programs designed for CAD such as Fusion 360, Eagle, etc. 
+One important feature in reproducability is proper documentation. Addititionally, it can be used to showcase ones work. As such, we seek to teach members to create proper design drawing for such purposes. 
 
 
 ## Purpose
